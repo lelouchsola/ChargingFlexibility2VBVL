@@ -24,7 +24,7 @@ G. Chen, N. R. Shishvan, Z. Guo, and J. Qin. (2024). SiobhanPowell/speech-grid-i
 
 ### Contents
 
-This repository contains three groups of Jupyter notebooks:
+This repository contains three groups of Jupyter Notebooks:
 
 1. **Chicago Metropolitan Area Case**
    - **Chicago2017_1_Parameters**: Calculates parameters for trip chains and charger availability, including weights of trip chains, maximum charging power, cumulative energy demands, and EV locations.
@@ -44,6 +44,8 @@ This repository contains three groups of Jupyter notebooks:
 
 3. **Result Comparison of the Two Areas**
    - **plot_AreasCompare**: Compares total parking hours and virtual battery power/energy capacities across counties in both areas, generating Figure 5.
+
+Please run the notebooks in each group sequentially.
 
 ---
 
