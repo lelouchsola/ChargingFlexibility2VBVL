@@ -7,6 +7,9 @@ This repository accompanies the paper:
 
 G. Chen, N. R. Shishvan, Z. Guo, and J. Qin, *"Electric Vehicles as Interoperable Grid Batteries and Wires: Quantifying Spatiotemporal Charging Flexibility for a Net-zero Future."*
 
+
+This code is also available at: https://github.com/lelouchsola/ChargingFlexibility2VBVL.
+
 ### Contact
 - Email: chen4911 (at) purdue (dot) edu
 - Email: jq (at) purdue (dot) edu
@@ -19,7 +22,7 @@ The increasing adoption of electric vehicles (EVs) necessitates substantial inve
 
 Please cite this code as:
 
-G. Chen, N. R. Shishvan, Z. Guo, and J. Qin. (2024). SiobhanPowell/speech-grid-impact: (v1.0.0). Zenodo. doi: 10.5281/zenodo.5789549
+G. Chen, N. R. Shishvan, Z. Guo, and J. Qin. (2024). lelouchsola/ChargingFlexibility2VBVL: ChargingFlexibility2VBVL_Release. Zenodo. doi: 10.5281/zenodo.14158754
 
 ---
 
