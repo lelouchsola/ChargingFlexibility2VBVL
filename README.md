@@ -1,6 +1,6 @@
 # Electric Vehicles as Interoperable Grid Batteries and Wires: Quantifying Spatiotemporal Charging Flexibility for a Net-zero Future
 
-[![DOI](https://zenodo.org/badge/438098660.svg)](https://zenodo.org/badge/latestdoi/438098660)
+[![DOI](https://zenodo.org/badge/888169921.svg)](https://doi.org/10.5281/zenodo.14158753)
 
 This repository accompanies the paper: 
 
